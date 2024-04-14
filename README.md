@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wzn666
 - 👀 I’m 前端菜鸟
-- 🌱 I’m 要成为全栈开发的大佬
+- 🌱 I’m 要成为前端终极菜鸟
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
